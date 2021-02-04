@@ -1,0 +1,30 @@
+.formControl.error input,
+.formControl.error textarea {
+border: solid red 1px;
+}
+.formControl.error span {
+color: red;
+}
+.formErrorLogin {
+    color: red;
+    padding: 10px;
+    font-size: 18px;
+}
+.rememberMe {
+    display: flex;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.loginForm {
+    padding-left: 40px;
+}
+.wordLogin{
+    padding-left: 80px;
+}
+.buttonLogin {
+    margin-left: 48px;
+    margin-top: 10px;
+    height:25px;
+    width:80px;
+    font-size: 16px;
+}

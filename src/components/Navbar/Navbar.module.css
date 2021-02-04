@@ -1,0 +1,17 @@
+.nav {
+    grid-area: nav;
+    background-color: #ecfaff;
+    padding: 20px;
+}
+.item a {
+    color: #51a5d4;
+    text-decoration: none;
+}
+.item a.active {
+    color: #004566;
+}
+.friends {
+    padding-top: 64px;
+    font-size: 30px;
+    /*text-align: center;*/
+}

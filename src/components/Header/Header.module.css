@@ -1,0 +1,13 @@
+.header {
+    grid-area: header;
+    background-color: #ecfaff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.loginBlock a{
+    color: #006296;
+    font-size: 18px;
+
+
+}

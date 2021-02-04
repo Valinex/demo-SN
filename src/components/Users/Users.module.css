@@ -1,0 +1,21 @@
+.UserPhoto{
+    width: 130px;
+    height: 130px;
+}
+
+.allUsers{
+    display: flex;
+    border: solid #006296 1px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+.UserInformation{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.buttonSubscribe{
+    height:30px;
+    width:90px;
+    font-size: 20px;
+}
